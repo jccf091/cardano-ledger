@@ -142,7 +142,6 @@ dummyGenesisInitializer = GenesisInitializer
     }
   , giAvvmBalanceFactor = mkKnownLovelacePortion @1000000000000000
   , giUseHeavyDlg = True
-  , giSeed        = 0
   }
 
 dummyGenesisData :: GenesisData

@@ -156,7 +156,6 @@ exampleGenesisInitializer = GenesisInitializer
     }
   , giAvvmBalanceFactor = LovelacePortion {getLovelacePortion = 366832547637728}
   , giUseHeavyDlg = False
-  , giSeed        = 0
   }
 
 exampleGenesisNonAvvmBalances0 :: GenesisNonAvvmBalances
