@@ -28,7 +28,6 @@
           (hsPkgs.cardano-crypto)
           (hsPkgs.cardano-prelude)
           (hsPkgs.cryptonite)
-          (hsPkgs.cryptonite-openssl)
           (hsPkgs.data-default)
           (hsPkgs.formatting)
           (hsPkgs.memory)
